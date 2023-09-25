@@ -3,5 +3,5 @@
 - 🔭 Atualmente trabalhando no Setor de Produções.
 - 🌱 Estudando Python!
 - 🤓 Apaixonado por Tecnologia.
-
-![giphy](https://github.com/ferreiravict0r/ferreiravict0r/assets/145945396/8d7c32f7-064f-4fe5-8f01-743663ba6b8e)
+  
+![0 gif c181f80f8bc700e43919789cfed3e724](https://github.com/ferreiravict0r/ferreiravict0r/assets/145945396/fad12155-9c5a-447d-867f-a7a6ba77d007)
