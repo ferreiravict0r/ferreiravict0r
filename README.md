@@ -1,6 +1,6 @@
 ### print('Bem vindo, meu chapa!') 👋
 
-# about_me = {
+about_me = {
 
 1: '🥰 Apaixonado por Tecnologia. <3',
 2: '🐍 Estudante da Linguagem Python.',
